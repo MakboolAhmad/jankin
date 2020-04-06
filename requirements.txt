@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 cryptography==2.1.4
 dj-database-url==0.5.0
-Django==1.11.11
+Django==1.11.28
 django-appconf==1.0.3
 django-classy-tags==1.0.0
 django-easy-maps==1.1.0
